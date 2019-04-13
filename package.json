@@ -1,7 +1,7 @@
 {
     "name": "parcel-plugin-inline-source",
     "description": "Inline all flagged js, css, image source files",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "xingqiao <cctshiyu@126.com>",
     "keywords": [
         "parcel",
