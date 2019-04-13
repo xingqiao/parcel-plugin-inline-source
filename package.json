@@ -1,0 +1,26 @@
+{
+    "name": "parcel-plugin-inline-source",
+    "description": "Inline all flagged js, css, image source files",
+    "version": "0.1.0",
+    "author": "xingqiao <cctshiyu@126.com>",
+    "keywords": [
+        "parcel",
+        "parcel-plugin",
+        "plugin",
+        "inline",
+        "inline-source",
+        "html",
+        "js",
+        "css"
+    ],
+    "dependencies": {
+        "inline-source": "^6.1.9"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xingqiao/parcel-plugin-inline-source.git"
+    },
+    "readmeFilename": "README.md",
+    "license": "MIT"
+}
