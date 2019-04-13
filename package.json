@@ -17,6 +17,9 @@
         "inline-source": "^6.1.9"
     },
     "main": "index.js",
+    "scripts": {
+        "npm": "npm publish"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/xingqiao/parcel-plugin-inline-source.git"
