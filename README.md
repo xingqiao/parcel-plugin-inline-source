@@ -1,8 +1,9 @@
 # parcel-plugin-inline-source
 
 [![NPM Version](https://img.shields.io/npm/v/parcel-plugin-inline-source.svg?style=flat-square)](https://www.npmjs.com/package/parcel-plugin-inline-source)
+[![NPM Downloads](https://img.shields.io/npm/dm/parcel-plugin-inline-source.svg?style=flat-square)](https://www.npmjs.com/package/parcel-plugin-inline-source)
 
-> 基于 [inline-source](https://github.com/popeindustries/inline-source) 实现，在需要内联的 `<script>`、`<link>` 标签上添加 `inline="inline"` 属性，编译时会自动进行内联操作
+> 基于 [inline-source](https://github.com/popeindustries/inline-source) 实现，在需要内联的 `<script>`、`<link>` 标签上添加 `inline="inline"` 属性，执行 `parcel build` 编译时会自动进行内联操作。
 
 ## Install
 
