@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel build src/index.html --no-source-maps --no-cache"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "parcel-plugin-inline-source": "^1.0.0",
+    "parcel-plugin-pre-clean": "^1.0.1",
+    "sass": "^1.22.9"
+  },
+  "dependencies": {
+    "preact": "^8.5.1"
+  },
+  "parcelBuildClean": [
+      "dist/*.js",
+      "dist/*.css"
+  ]
+}
